@@ -1,0 +1,19 @@
+body {
+  background: black;
+  color: rgb(123, 123, 123);
+  text-align: center;
+}
+.App, h1 {
+  font-family: 'Koulen', cursive;
+  font-size: 50pt;
+  /* -webkit-text-stroke-color: red; */
+  /* -webkit-text-stroke: 0.1pt rgb(171, 171, 171); */
+  /* stroke-opacity: 30%; */
+  /* -webkit-text-stroke-width: 1pt; */
+}
+  h3 {
+    color:gray;
+    font-family: 'Koulen', cursive;
+  font-size: 20pt;
+ 
+}
